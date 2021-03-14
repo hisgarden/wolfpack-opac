@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Grasses
 order: 3
 seo:
   title: Plants from Europe
