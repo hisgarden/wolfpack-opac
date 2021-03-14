@@ -11,7 +11,7 @@ description: >-
   while new growth is tender or when inland grown. Attracts bees and
   hummingbirds.
 default_thumbnail_image: images/Arctostaphylos_Sunset-SunsetManzanita.jpg
-default_original_image: images/plant8-lg.jpg
+default_original_image: images/good-anemone.jpg
 order: 8
 category: src/pages/category/summer.md
 seo:
