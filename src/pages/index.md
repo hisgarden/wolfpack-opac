@@ -101,7 +101,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: Outstanding Plants for Alameda County
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
