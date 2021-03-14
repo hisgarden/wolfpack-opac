@@ -62,7 +62,17 @@ sections:
       arrow: true
 seo:
   title: Outstanding Plants for Alameda County
-  description: The preview of the Planty theme
+  description: >-
+    As Master Gardeners, we are often asked to recommend plants that grow well
+    in Alameda County.  Many gardeners are seeking to conserve water, reduce
+    pesticide usage and attract wildlife to their gardens.  At the same time,
+    they are looking for plants that don't require a lot of special care. 
+    Fortunately, there are a great many wonderful plants that can help gardeners
+    meet these goals while providing color and interest in the garden.
+
+     These two pamphlets highlight some of those plants.  Some are single species, while others are genera of plants with species ranging from groundcovers to large shrubs.  We have recommended some species and varieties, however, there are many others that will perform well and look beautiful.  The plants listed are some specific choices with which Master Gardeners have had positive experiences. Always check the label of the plant you are buying for its final size as well as water, sun and care requirements.
+
+     When planting, bear in mind that Alameda County contains many climactic zones or micro-climates, so a plant that tolerates full sun in coastal Berkeley may require afternoon shade in Livermore.  And plants that need no summer water in San Leandro, might benefit from an occasional deep soaking in Pleasanton.  We have noted this throughout the brochures, but you will achieve the best results if you learn about your own micro-climate and consult with your local nursery
   extra:
     - name: 'og:type'
       value: website
