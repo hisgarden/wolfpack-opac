@@ -61,7 +61,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: Outstanding Plants for Alameda County
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
