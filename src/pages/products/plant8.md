@@ -10,7 +10,7 @@ description: >-
   form). Other: Prefers well drained, acid to neutral soil. Needs some water
   while new growth is tender or when inland grown. Attracts bees and
   hummingbirds.
-default_thumbnail_image: images/plant8.jpg
+default_thumbnail_image: images/Arctostaphylos_Sunset-SunsetManzanita.jpg
 default_original_image: images/plant8-lg.jpg
 order: 8
 category: src/pages/category/summer.md
