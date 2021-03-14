@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Outstanding Plants for Alameda County
 white_header: true
 sections:
   - type: hero_section
