@@ -103,7 +103,14 @@ seo:
     - name: 'twitter:title'
       value: Outstanding Plants for Alameda County
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: >-
+        As Master Gardeners, we are often asked to recommend plants that grow
+        well in Alameda County.  Many gardeners are seeking to conserve water,
+        reduce pesticide usage and attract wildlife to their gardens.  At the
+        same time, they are looking for plants that don't require a lot of
+        special care.  Fortunately, there are a great many wonderful plants that
+        can help gardeners meet these goals while providing color and interest
+        in the garden.
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
