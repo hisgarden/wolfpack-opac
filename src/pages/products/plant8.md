@@ -1,7 +1,7 @@
 ---
 id: '8'
 price: '50.00'
-title: Manzanita
+title: Manzanita (Arctostaphylos spp.)
 description: >-
   Groundcover to large shrub with small white to pink flowers in winter/early
   spring; many have attractive red to purplish bark. Groundcover types provide
