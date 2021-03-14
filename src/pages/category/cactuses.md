@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Shrubs
 order: 2
 seo:
   title: Cactuses
