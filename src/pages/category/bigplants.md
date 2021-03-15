@@ -2,14 +2,14 @@
 title: Perennials
 order: 1
 seo:
-  title: Big plants
+  title: Outstanding Plants for Alameda County - Perennials
   description: This is the store page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Big plants
+      value: Perennials
       keyName: property
     - name: 'og:description'
       value: This is the store page
@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Big plants
+      value: Perennials
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'

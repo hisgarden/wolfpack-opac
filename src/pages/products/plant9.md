@@ -7,7 +7,7 @@ default_thumbnail_image: images/plant9.jpg
 default_original_image: images/plant9-lg.jpg
 featured: true
 order: 9
-category: src/pages/category/cactuses.md
+category: src/pages/category/shrubs.md
 seo:
   title: Fusce sagittis
   description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci'
